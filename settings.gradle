@@ -1,0 +1,2 @@
+include ':app', ':arithmeticoperations'
+rootProject.name='BasicCalculator'
