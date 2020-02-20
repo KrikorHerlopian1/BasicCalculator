@@ -213,7 +213,7 @@
             android:layout_weight="1">
 
             <Button
-                android:id="@+id/sin"
+                android:id="@+id/btnSin"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
@@ -222,7 +222,7 @@
                 android:text="@string/sin" />
 
             <Button
-                android:id="@+id/cos"
+                android:id="@+id/btnCos"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
@@ -230,7 +230,7 @@
                 android:onClick="onSinCosTan"
                 android:text="@string/cos" />
             <Button
-                android:id="@+id/tan"
+                android:id="@+id/btnTan"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
@@ -238,7 +238,7 @@
                 android:onClick="onSinCosTan"
                 android:text="@string/tan" />
             <Button
-                android:id="@+id/radianDegree"
+                android:id="@+id/btnRadDeg"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
